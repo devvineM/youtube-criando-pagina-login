@@ -2,4 +2,4 @@
 
 Projeto criado para mostrar uma das maneiras que podemos desenvolver uma página de login
 
-[Link di Vídeo](https://www.youtube.com/watch?v=1aBxoPHLGx0&t=124s)
+[Link do Vídeo](https://www.youtube.com/watch?v=1aBxoPHLGx0&t=124s)
